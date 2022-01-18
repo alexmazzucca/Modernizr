@@ -1,26 +1,13 @@
 {
   "classPrefix": "",
   "enableClasses": true,
-  "enableJSClass": true,
+  "enableJSClass": false,
   "scriptGlobalName": "window",
-  "usePrefixes": true,
-  "minify": false,
+  "false": true,
+  "minify": true,
   "options": [
-    "addTest",
-    "atRule",
-    "domPrefixes",
-    "hasEvent",
     "html5shiv",
-    "html5printshiv",
-    "load",
-    "mq",
-    "prefixed",
-    "prefixes",
-    "prefixedCSS",
-    "setClasses",
-    "testAllProps",
-    "testProp",
-    "testStyles"
+    "setClasses"
   ],
   "feature-detects": [
     "a/download",
